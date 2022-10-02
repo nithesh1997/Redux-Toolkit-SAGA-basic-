@@ -1,0 +1,28 @@
+{
+  "vaccine": [
+    {
+      "name": "Nithesh kumar",
+      "date": "2022-09-11",
+      "vaccine": "COVID-SHILD",
+      "id": 1
+    },
+    {
+      "name": "Shyam",
+      "date": "2019-07-09",
+      "vaccine": "CO-VACCINE",
+      "id": 2
+    },
+    {
+      "name": "Ram",
+      "date": "2022-09-12",
+      "vaccine": "COVID-SHILD",
+      "id": 3
+    },
+    {
+      "name": "Ajith Kumar",
+      "date": "2022-09-07",
+      "vaccine": "CO-VACCINE",
+      "id": 4
+    }
+  ]
+}
